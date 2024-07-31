@@ -1,4 +1,4 @@
-# World Population Exploratory Data Analysis
+# Python World Population Analysis
 
 ## Project Overview
 This World Population Exploratory Data Analysis (EDA) project uncovers insights and trends in global population dynamics by analyzing and visualizing world population data. This project involves cleaning and preprocessing the dataset, examining population distribution and growth trends, and exploring demographic factors, such as age distribution and gender ratios, across different countries. We utilized Python and Python libraries, such as Pandas, NumPy, Matplotlib, and Seaborn, in order to identify patterns in socio-economic correlations and historical changes. This project contains extremely valuable for policymakers, researchers, and educators interested in understanding and addressing global population challenges.
